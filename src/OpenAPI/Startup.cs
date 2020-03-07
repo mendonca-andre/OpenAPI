@@ -72,7 +72,6 @@ namespace OpenAPI
                             }
                         });
                 });
-
         }
 
         /// <summary>
