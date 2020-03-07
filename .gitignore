@@ -354,3 +354,4 @@ MigrationBackup/
 .ionide/
 src/OpenAPI/obj/Debug/netcoreapp3.1/OpenAPI.csproj.FileListAbsolute.txt
 src/OpenAPI/bin/Debug/netcoreapp3.1/OpenAPI.dll
+src/OpenAPI/bin/Debug/netcoreapp3.1/OpenAPI.dll
