@@ -57,9 +57,22 @@ namespace OpenAPI
                         {
                             Version = "v1",
                             Title = "Open API",
-                            Description = "eFootball Open API"
+                            Description = "A simple example ASP.NET Core Web API",
+                            TermsOfService = new Uri("https://example.com/terms"),
+                            Contact = new OpenApiContact
+                            {
+                                Name = "Andre Mendonca",
+                                Email = string.Empty,
+                                Url = new Uri("https://github.com/mendonca-andre"),
+                            },
+                            License = new OpenApiLicense
+                            {
+                                Name = "Use under LICX",
+                                Url = new Uri("https://example.com/license"),
+                            }
                         });
                 });
+
         }
 
         /// <summary>
