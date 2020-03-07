@@ -1,4 +1,4 @@
-# OpenAPI
+
 # Get started with Swagger(OpenAPI) and ASP.NET Core
 
 When consuming a Web API, understanding its various methods can be challenging for a developer. [Swagger](https://swagger.io/), also known as [OpenAPI](https://www.openapis.org/), solves the problem of generating useful documentation and help pages for Web APIs. It provides benefits such as interactive documentation, client SDK generation, and API discoverability.
