@@ -2,6 +2,13 @@
 
 When consuming a Web API, understanding its various methods can be challenging for a developer. [Swagger](https://swagger.io/), also known as [OpenAPI](https://www.openapis.org/), solves the problem of generating useful documentation and help pages for Web APIs. It provides benefits such as interactive documentation, client SDK generation, and API discoverability.
 
+
+### Support me
+
+If you have found this project helpful, either as a library that you use or as a learning tool, please consider buying me a coffee:
+
+<a href="https://www.buymeacoffee.com/amendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 ## Add Swashbuckle.AspNetCore
 ```csharp
 Install-Package Swashbuckle.AspNetCore -Version 5.0.0
